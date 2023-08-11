@@ -1,3 +1,8 @@
+Hi, My name is Gokay Akkus
+===================================================================================================================================
+
+Web Developer
+-------------
 * 🖥️  See my portfolio at [Gokay Akkus Portfolio](https://gokayakkus.vercel.app/)
 * ✉️  You can contact me at [ggokay.akkus@gmail.com](mailto:ggokay.akkus@gmail.com)
 * 🚀  I'm currently working on [Daily Product App](https://dailygoodproduct.vercel.app/)
