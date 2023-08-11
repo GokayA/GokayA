@@ -17,6 +17,6 @@ Daily Product App
 ![](https://github-readme-stats.vercel.app/api?username=GokayA&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GokayA&theme=dark&hide_border=false)
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GokayA&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
