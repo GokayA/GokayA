@@ -1,6 +1,6 @@
-* 🖥️  See my portfolio at [Gokay Akkus Portfolio](http://https://gokayakkus.vercel.app/)
+* 🖥️  See my portfolio at [Gokay Akkus Portfolio](https://gokayakkus.vercel.app/)
 * ✉️  You can contact me at [ggokay.akkus@gmail.com](mailto:ggokay.akkus@gmail.com)
-* 🚀  I'm currently working on [Daily Product App](http://https://dailygoodproduct.vercel.app/)
+* 🚀  I'm currently working on [Daily Product App](https://dailygoodproduct.vercel.app/)
 * 🧠  I'm learning Next.js, Data structures and algorithms.
 * 🤝  I'm open to collaborating on Projects.
 
