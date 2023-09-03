@@ -9,10 +9,6 @@ Web Developer
 * 🧠  I'm learning Next.js, Data structures and algorithms.
 * 🤝  I'm open to collaborating on Projects.
 
-# 💫 About Me:
-Daily Product App
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_gokay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gokay-akkus) 
 
